@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nipunchhajed@gmail.com",
+    "enableMultiJS": true,
+    "longName": "weather-wear-watchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "weather-wear-watchface",
+    "uuid": "4f9cff2a-c976-4746-a73a-8a77c04de0e3",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
